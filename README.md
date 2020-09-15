@@ -1,10 +1,10 @@
-[Covid-19 Tracker Link](http://covid19-tracker-reactjs.surge.sh/)
+# [Covid-19 Tracker Link](http://covid19-tracker-reactjs.surge.sh/)
 
 ![](src/images/main.png)
 
-Introduction:
+# Introduction:
 
-This is Covid-19 Tracker built using ReactJS.
+## This is Covid-19 Tracker built using ReactJS.
 
 ## Available Scripts
 
